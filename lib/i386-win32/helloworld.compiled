@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\i386-win32\fpc.exe" Date="1286835357"/>
-  <Params Value=" -MObjFPC -Scghi -CX -O2 -gs -gl -Xg -l -vewnhibq -FiC:\LazarusPluginTemplate\lib -FiC:\LazarusPluginTemplate\lib\i386-win32 -FuC:\LazarusPluginTemplate\lib -FuC:\LazarusPluginTemplate\libraryfiles -FuC:\lazarus\lcl\units\i386-win32\win32 -FuC:\lazarus\lcl\units\i386-win32 -FuC:\lazarus\components\lazutils\lib\i386-win32 -FuC:\lazarus\packager\units\i386-win32 -FuC:\LazarusPluginTemplate\ -FUC:\LazarusPluginTemplate\lib\i386-win32\ -FEC:\LazarusPluginTemplate\Notepad\plugins\helloworld\ -dLCL -dLCLwin32 -dNPPUNICODE helloworld.lpr"/>
-</CONFIG>
